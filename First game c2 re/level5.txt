@@ -1,0 +1,25 @@
+OOOOOOOOOOOOOOOOOOOO
+O=c       c    =   O
+O   =  =      =    O
+O  =      c      c O
+O      =    RR =  RO
+O c    RR  RROd  RRO
+O =  RRRR=RRRP000R=O
+O000RR =R0R RRRRlRRO
+O =  RR  =   =   c O
+O  g  RRcRRRRR=    O
+O =  c=RRR   RRRR  O
+O          =   =RR=O
+O      =  ==     R O
+O=   k             O
+O      =  ==   =   O
+O  = c    =     =  O
+O       =    c  s  O
+O   =      =       O
+O c    =        =  O
+OOOOOOOOOOOOOOOOOOOO
+4
+3 17 6 9 0 Некто
+17 15 7 11 0 Циклоп
+18 18 25 50 0 БОСС!!
+11 18 5 10 0 Речной монстр

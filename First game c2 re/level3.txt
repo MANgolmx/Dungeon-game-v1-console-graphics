@@ -1,0 +1,25 @@
+OOOOOOOOOOOOOOOOOOOO
+O=    ==       c   O
+ORRRR=   RRR == =  O
+O=k RRRcRR     c   O
+Oc    RRR    RR =  O
+O = = gR  === RR  =O
+O  c   RR ==   RR  O
+Oc= c  RRR ==   RcsO
+O ==  = RR  c=  R00O
+O c   c RR     RR= O
+O = =  RR  =  RR c O
+O    cRR l   RR =  O
+O c = R =  RRR  =  O
+O    RR  RRR   c RRO
+O = RR  RR0 =   RRcO
+Oc RR = Rc RR    = O
+O= R   RRRRR  O0d0OO
+O RR  RR=   =000c=hO
+O =   =     O00c= PO
+OOOOOOOOOOOOOOOOOOOO
+4
+2 12 4 7 0 Авечка
+14 15 6 14 0 Гарри Поттер
+18 10 5 9 0 Руслан
+17 5 4 2 0 Минотавр

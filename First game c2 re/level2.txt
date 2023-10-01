@@ -1,0 +1,24 @@
+OOOOOOOOOOOOOOOOOOOO
+O    = R c =cc  c cO
+O == RRRccRRRRRh c=O
+O    R RsRR=  RRRRdO
+O  =   RRR  = c    O
+O  c=   RR cRRRRR= O
+O   ==   RkPR = Rl O
+O=       RRRR   RRcO
+O   RR == RR =     O
+O =  RR = R     =  O
+O  c  RgcRR   ==   O
+O     RRRR=  ===   O
+O=  RRRc R   = c = O
+O==RR  = RR  =  =  O
+O  R    = R =      O
+O RR ==   RR    =  O
+O R    = c R   ==  O
+O  =   =   RR  = = O
+Oc    =  c  =   c  O
+OOOOOOOOOOOOOOOOOOOO
+3
+2 7 4 0 0 Тролль
+18 11 3 8 0 Лучник
+2 16 4 7 0 Лошадочка

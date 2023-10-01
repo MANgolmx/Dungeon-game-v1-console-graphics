@@ -1,0 +1,24 @@
+OOOOOOOOOOOOOOOOOOOO
+O=         =c   =  O
+O    =    =     =  O
+O ==  c   = h =    O
+O l             P  O
+O0==   00   ==0 =  O
+OOOO00OOOO0OOOO0O0OO
+O =       = 00    0O
+O     RR       c  0O
+O = RRR   =        O
+O= RR c   =    ==  O
+OcRR     == c   =  O
+ORR   =            O
+OkR =      ===R = gO
+O RR  c R===RRR   OO
+O cRR   RR= R  c000O
+O  =RRR  RcRR 0d0chO
+O  = cRRRRRR  0c =cO
+O=         = 00scccO
+OOOOOOOOOOOOOOOOOOOO
+3
+2 10 4 7 0 Зомби
+4 18 5 8 0 Скелет
+17 7 5 9 0 Елена Летучая

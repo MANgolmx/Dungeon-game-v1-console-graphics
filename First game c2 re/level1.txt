@@ -1,0 +1,25 @@
+OOOOOOOOOOOOOOOOOOOO
+O    =     =    =  O
+ORRRRRR=  RRR  == =O
+O=c RRRRRRR  c   R O
+O    =  lR   =  RR O
+O        RR    RR  O
+O   =  =     RRR=  O
+O= = ==      = Rc  O
+O  =  ==    c  RR =O
+O  c =   R      RRkO
+O =     RR = ==  RRO
+O0RRRRRRRR ====   =O
+Os RRc R=   ==    0O
+O   RRRR          cO
+O   =gR =  =0000O PO
+O    RR  00000OOOOOO
+O   RR   0c=  cccccO
+O =  R= 00c  =  =  O
+O = c    d   0h0c0cO
+OOOOOOOOOOOOOOOOOOOO
+4
+2 5 3 4 0 Розбiйник
+1 14 3 4 0 Гоблин
+17 14 3 2 0 Минотавр
+18 7 3 3 0 Циклоп
